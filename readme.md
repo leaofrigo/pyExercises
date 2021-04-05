@@ -1,1 +1,2 @@
-Small collection of Python snippets and challenges
+Small collection of Python snippets and exercises
+
